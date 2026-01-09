@@ -96,12 +96,4 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 <div align="center">
 
-### Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=Soham-Gurav&icon=5&color=12"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-```
 
