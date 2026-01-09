@@ -7,7 +7,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/Soham Gurav">
+<a href="www.linkedin.com/in/soham-gurav-1a6802273">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sohamgurav456123@gmail.com">
