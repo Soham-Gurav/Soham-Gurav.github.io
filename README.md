@@ -71,10 +71,7 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Soham-Gurav&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Soham-Gurav&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Gurav&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -82,8 +79,10 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 ##  Dev Philosophy
 
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-<img src="https://visitcount.itsvg.in/api?id=Soham-Gurav&icon=5&color=12"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> ```
+<img src="https://visitcount.itsvg.in/api?id=Soham-Gurav&icon=5&color=12"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> 
+</div>
 
 
 
