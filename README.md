@@ -82,18 +82,8 @@ I enjoy **hands-on experimentation**, continuous learning, and designing systems
 
 ##  Dev Philosophy
 
-> **“Build first. Break fast. Learn always.”**
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://visitcount.itsvg.in/api?id=Soham-Gurav&icon=5&color=12"/> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/> ```
 
----
-
-## Top Contributions
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Soham-Gurav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
----
-
-<div align="center">
 
 
